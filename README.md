@@ -1,6 +1,9 @@
 # GEOTREK RANDO V2 ![master](https://travis-ci.org/makinacorpus/Geotrek-rando.svg)
 ### Public portal of Geotrek (http://geotrek.fr).
 
+![Portal example](http://geotrek.fr/assets/img/screen-2.png)
+
+Examples: [Grand tour des Ecrins](http://www.grand-tour-ecrins.fr), [Destination Mercantour](http://rando.mercantour.eu), [Vercors Rando](http://rando.parc-du-vercors.fr), [Chemin des Parcs](http://www.cheminsdesparcs.fr/).
 
 ## PREREQUISITES
 
@@ -60,6 +63,6 @@ _See [Launch build task](docs/README.md#launch-build-task)_
 
 [<img src="http://depot.makina-corpus.org/public/logo.gif">](http://www.makina-corpus.com)
 
-[<img src="https://raw.githubusercontent.com/makinacorpus/Geotrek-website/master/public/assets/img/parc_ecrins.png">](http://www.ecrins-parcnational.fr)
-[<img src="https://raw.githubusercontent.com/makinacorpus/Geotrek-website/master/public/assets/img/parc_mercantour.png">](http://www.mercantour.eu)
-[<img src="https://raw.githubusercontent.com/makinacorpus/Geotrek-website/master/public/assets/img/logo-pn-cevennes.png">](https://www.cevennes-parcnational.fr)
+[<img src="http://geotrek.fr/assets/img/parc_ecrins.png">](http://www.ecrins-parcnational.fr)
+[<img src="http://geotrek.fr/assets/img/parc_mercantour.png">](http://www.mercantour.eu)
+[<img src="http://geotrek.fr/assets/img/alpi_maritime.png">](https://www.cevennes-parcnational.fr)
